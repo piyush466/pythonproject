@@ -1,0 +1,14 @@
+2022-08-30 17:05:51,068 :INFO: test_pytest.Baseclass :piyush
+2022-08-30 17:05:51,068 :INFO: test_pytest.Baseclass :milind
+2022-08-30 17:05:51,075 :DEBUG: test_pytest.test_logging :this is  debug statement
+2022-08-30 17:05:51,075 :INFO: test_pytest.test_logging :this is  information   statement
+2022-08-30 17:05:51,076 :WARNING: test_pytest.test_logging :this is  warning statement
+2022-08-30 17:05:51,076 :ERROR: test_pytest.test_logging :this is majjor error statement
+2022-08-30 17:05:51,076 :CRITICAL: test_pytest.test_logging :thisiid critiacl issue
+2022-08-30 17:06:00,383 :INFO: test_pytest.Baseclass :piyush
+2022-08-30 17:06:00,383 :INFO: test_pytest.Baseclass :milind
+2022-08-30 17:06:00,389 :DEBUG: test_pytest.test_logging :this is  debug statement
+2022-08-30 17:06:00,389 :INFO: test_pytest.test_logging :this is  information   statement
+2022-08-30 17:06:00,389 :WARNING: test_pytest.test_logging :this is  warning statement
+2022-08-30 17:06:00,389 :ERROR: test_pytest.test_logging :this is majjor error statement
+2022-08-30 17:06:00,389 :CRITICAL: test_pytest.test_logging :thisiid critiacl issue
